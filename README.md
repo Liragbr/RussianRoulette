@@ -18,6 +18,4 @@ This program was created with the aim of practicing programming logic without an
 
 While this game may seem like fun, it's important to remember the potential risks involved. Always exercise caution when running code from unknown sources, and never execute code that could harm your system or compromise your data.
 
-Have fun, but stay safe out there!
-
 
