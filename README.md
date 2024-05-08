@@ -1,19 +1,17 @@
 # 💻 Windows 32 Russian Roulette
 
 Welcome to the Windows 32 Russian Roulette! This is a game of chance where you pick a chamber, and if you're unlucky, you might end up deleting critical system files from your Windows 32 directory.
+This program was created with the aim of practicing programming logic without an obvious risk, all application and testing was done in Linux and carried out by Windows
 
-## How to Play
-
+## ⚠ How to Play
+```
 1. Run the program.
 2. Pick a chamber number between 1 and 6.
 3. Pray it's not the chamber with the bullet (i.e., the randomly chosen number).
-
-If you pick the chamber with the bullet, you'll trigger the deletion of your Windows 32 directory, leading to catastrophic consequences for your system.
-
+```
 ## Disclaimer
 
 **Warning:** This game is provided purely for educational and entertainment purposes. Deleting critical system files can cause irreparable damage to your system, leading to data loss and rendering your computer inoperable.
-
 **DO NOT RUN THIS CODE ON A REAL SYSTEM.** Running this program can have severe consequences for your computer and personal data.
 
 ## Stay Safe and Responsible
