@@ -9,12 +9,21 @@ Welcome to the Windows 32 Russian Roulette! This is a game of chance where you p
 - "Gray Hat Python: Python Programming for Hackers and Reverse Engineers" de Justin Seitz
   
 ## Languages
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="C#" width="40px" style="padding-right:10px;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-<img align="left" alt="C++" width="40px" style="padding-right:10px;" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-<br>
-<br>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cpp" height="38" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="38" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ruby" height="38" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="38" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="38" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="38" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="38" alt="java logo"  />
+</div>
   
 ## Disclaimer
 
