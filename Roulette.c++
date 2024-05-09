@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
-#include <windows.h> // Include this library for system commands.
+#include <windows.h> // Include this library for system commands
 using namespace std;
 
 int main() {
