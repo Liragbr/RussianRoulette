@@ -7,5 +7,5 @@ chamber = gets.chomp.to_i
 if chamber == bullet
     puts "Oops! Looks like you just deleted Windows 32. Good luck reinstalling! 💻💥"
 else
-    puts "Phew! You survived... this time. Try again if you dare! 🔫😅"
+    puts "Phew! You survived... this time. Try again if you dare!🔫😅"
 end
