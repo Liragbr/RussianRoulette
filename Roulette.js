@@ -12,7 +12,7 @@ rl.question("Pick a chamber (1-6): ", (chamber) => {
     if (parseInt(chamber) === bullet) {
         console.log("Oops! Looks like you just deleted Windows 32. Good luck reinstalling! 💻💥");
     } else {
-        console.log("Phew! You survived... this time. Try again if you dare! 🔫😅");
+        console.log("Phew! You survived... this time. Try again if you dare!🔫😅");
     }
     rl.close();
 });
