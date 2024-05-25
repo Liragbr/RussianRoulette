@@ -25,6 +25,19 @@ Welcome to the Windows 32 Russian Roulette! This is a game of chance where you p
   <img src="https://skillicons.dev/icons?i=java" height="38" alt="java logo"  />
 </div>
   
+## Explanations
+If you open Visual Studio Code (or any other code editor) as an *administrator* and run this code on a Windows system, the code may delete the ```"C:\Windows\System32"``` directory. Here's what you should consider:
+
+**Administrator Permissions:** Running the code editor as an administrator gives the program elevated permissions, allowing it to make changes to protected areas of the system, such as the "C:\Windows\System32" directory. 
+
+**User Account (UAC):** When you open VS Code as an administrator, you have already passed UAC verification, which means the program has the necessary permissions to perform actions that would normally be blocked.Windows 
+
+**File Protection (WFP):** Although WFP may attempt to restore critical files automatically, deleting the entire directory may cause damage before WFP can restore the files. 
+
+**Locking Files in Use:** Many files in the "System32" directory are in use by the system and may not be deleted immediately. However, attempting to delete the entire directory may cause unpredictable behavior and corrupt the system. 
+
+Running this code with administrator permissions is extremely dangerous and may result in the deletion of critical system files, rendering Windows unusable. You would need to reinstall the operating system to restore normal functionality.
+
 ## Disclaimer
 
 **Warning:** This game is provided purely for educational and entertainment purposes. Deleting critical system files can cause irreparable damage to your system, leading to data loss and rendering your computer inoperable.
